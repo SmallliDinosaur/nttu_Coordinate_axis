@@ -48,7 +48,7 @@ data.append(dictionary)
     
 ![Imgur](https://i.imgur.com/yasqBhv.jpeg "教學2")
 
-![Imgur](https://imgur.com/gallery/MRWa8nB "教學3")
+![Imgur](https://i.imgur.com/9WLlJsb.jpeg "教學3")
 
 <strong>
 <br>
