@@ -1,5 +1,5 @@
-願促進臺東大學資訊發展，因此公布
-<br><strong>自標記檔案，如有使用請引用以下網址</strong>：
+<strong>願促進臺東大學資訊發展，因此公布
+<br>自標記檔案，如有使用請引用以下網址</strong>：
 <br>
 https://github.com/SmallliDinosaur/nttu_Coordinate_axis
 ```
@@ -38,15 +38,15 @@ data.append(dictionary)
 <br>
 <br>
 <br>
-<br>如下圖：
-<br>點擊底下<strong>白區塊<strong>與🔎
-<br>記得勾選欲查詢之樓層
+<br><strong>如下圖：
+<br>點擊底下白區塊與🔎
+<br>記得勾選欲查詢之樓層</strong>
     
 ![Imgur](https://i.imgur.com/yasqBhv.jpeg "教學2")
 
 ![Imgur](https://i.imgur.com/Wa1DMXJ.jpeg "教學3")
 
-
+<strong>
 <br>
 <br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠒⠒⠤⢄⠀⠀⠀
 <br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⡼⠀⠀⠀⠀ ⠀
@@ -88,3 +88,4 @@ data.append(dictionary)
 <br>
 來源檔案：
 https://www.google.com/maps/d/edit?mid=1dcZM4HEzLQg6_afcW2bICPL1lAWxLK1y&usp=sharing
+</strong>
