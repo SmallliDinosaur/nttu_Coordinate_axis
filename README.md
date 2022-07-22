@@ -2,6 +2,10 @@
 <br>自標記檔案，如有使用請引用以下網址</strong>：
 <br>
 https://github.com/SmallliDinosaur/nttu_Coordinate_axis
+<br>
+<br>
+<br>
+XML轉JSON:
 ```
 from xml.etree import ElementTree as ET
 tree=ET.parse('NTTU_MAP.xml')
