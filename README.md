@@ -24,15 +24,7 @@ dictionary={}
 dictionary.update({"w1":{"site":[b1,c1]}})
 data.append(dictionary)
 ```
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -43,7 +35,7 @@ data.append(dictionary)
 <br>
 
 ![Imgur](https://i.imgur.com/U8fMIu3.jpeg "教學1")
-![Imgur](https://i.imgur.com/67ttQGs.jpeg "教學2")
+![Imgur](https://i.imgur.com/vbsYKu5.jpeg "教學2")
 ![Imgur](https://i.imgur.com/Wa1DMXJ.jpeg "教學3")
 
 
