@@ -1,5 +1,5 @@
 願促進臺東大學資訊發展，因此公布
-<br>自標記檔案，如有使用<strong>請引用以下網址</strong>：
+<br><strong>自標記檔案，如有使用請引用以下網址</strong>：
 <br>
 https://github.com/SmallliDinosaur/nttu_Coordinate_axis
 ```
@@ -35,7 +35,7 @@ data.append(dictionary)
 <br>
 
 ![Imgur](https://i.imgur.com/U8fMIu3.jpeg "教學1")
-![Imgur](https://i.imgur.com/vbsYKu5.jpeg "教學2")
+![Imgur](https://i.imgur.com/yasqBhv.jpeg "教學2")
 ![Imgur](https://i.imgur.com/Wa1DMXJ.jpeg "教學3")
 
 
