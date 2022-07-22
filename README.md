@@ -19,7 +19,7 @@ for times in root.iter('Placemark'):
                 b1=coordinates[:count]
                 c1=coordinates[count+1:-2]
                 break
-          break
+         break
 dictionary={}
 dictionary.update({"w1":{"site":[b1,c1]}})
 data.append(dictionary)
