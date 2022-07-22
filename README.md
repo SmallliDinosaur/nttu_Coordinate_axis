@@ -33,12 +33,16 @@ data.append(dictionary)
 -安卓：手機可直接點擊。<br>
 -蘋果：長按-https://lihi1.com/fQBtx。
 <br>
+
 ![Imgur](https://i.imgur.com/U8fMIu3.jpeg "教學1")
 <br>
-![Imgur](https://i.imgur.com/yasqBhv.jpeg "教學2")
-<br>點擊🔎
-![Imgur](https://i.imgur.com/Wa1DMXJ.jpeg "教學3")
+<br>
+<br>
 
+![Imgur](https://i.imgur.com/yasqBhv.jpeg "教學2")
+
+![Imgur](https://i.imgur.com/Wa1DMXJ.jpeg "教學3")
+<br>點擊🔎
 
 <br>
 <br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠒⠒⠤⢄⠀⠀⠀
