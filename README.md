@@ -38,11 +38,12 @@ data.append(dictionary)
 <br>
 <br>
 <br>
+<br>如下圖點擊底下<strong>白區塊<strong>與🔎
 
 ![Imgur](https://i.imgur.com/yasqBhv.jpeg "教學2")
 
 ![Imgur](https://i.imgur.com/Wa1DMXJ.jpeg "教學3")
-<br>點擊🔎
+
 
 <br>
 <br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠒⠒⠤⢄⠀⠀⠀
