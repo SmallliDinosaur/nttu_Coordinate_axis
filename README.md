@@ -74,7 +74,7 @@ data.append(dictionary)
 -蘋果：建議複製- https://lihi1.com/fQBtx -至Safari。
 <br>
 
-![Imgur](https://imgur.com/gallery/cNiyDPf "教學1")
+![Imgur](https://i.imgur.com/U8fMIu3.jpeg "教學1")
 
 <br>
 <br>
