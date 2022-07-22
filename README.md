@@ -70,8 +70,8 @@ data.append(dictionary)
 <br>
 <h3>🗺️校園地圖-手機板使用教學</h3>
 -安卓：手機可直接點擊。<br>
--蘋果：建議先在Safari新增分頁，複製以下網址至Safari：
-<br>https://lihi1.com/fQBtx
+-蘋果：建議複製- https://lihi1.com/fQBtx -至Safari。
+<br>
 <br>
 <br>
 <br>
