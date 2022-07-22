@@ -5,7 +5,7 @@ https://github.com/SmallliDinosaur/nttu_Coordinate_axis
 <br>
 <br>
 <br>
-XML轉JSON:
+XML轉JSON(讀取經緯度):
 ```
 from xml.etree import ElementTree as ET
 tree=ET.parse('NTTU_MAP.xml')
