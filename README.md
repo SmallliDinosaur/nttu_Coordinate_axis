@@ -68,6 +68,14 @@ data.append(dictionary)
 <br>
 <br>
 <br>
+## 🗺️校園地圖
+
+安卓手機可直接點擊。
+
+蘋果建議先在Safari新增分頁，再點擊；
+或者複製以下鏈結至Safari。
+
+- **[https://lihi1.com/fQBtx](https://lihi1.com/fQBtx)**
 <br>
 <br>
 <br>
