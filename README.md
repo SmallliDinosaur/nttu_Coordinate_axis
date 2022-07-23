@@ -35,7 +35,7 @@ data.append(dictionary)
 <br>
 <h3>🗺️校園地圖-手機板使用教學</h3>
 -安卓：手機可直接點擊。<br>
--蘋果：長按-https://lihi1.com/fQBtx 。
+-IOS ：長按-https://lihi1.com/fQBtx 。
 <br>
 
 ![Imgur](https://i.imgur.com/U8fMIu3.jpeg "教學1")
