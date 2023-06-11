@@ -39,7 +39,7 @@ data.append(dictionary)
 -蘋果手機：長按-https://lihi1.com/fQBtx 。
 <br>
 
-![Imgur](https://i.imgur.com/U8fMIu3.jpeg "教學1")
+![Imgur](https://imgur.com/BjVEbw3 "教學1")
 <br>
 <br>
 <br>
@@ -49,7 +49,7 @@ data.append(dictionary)
     
 ![Imgur](https://i.imgur.com/67ttQGs.jpg "教學2")
 
-![Imgur](https://i.imgur.com/vbsYKu5.jpg "教學3")
+
 
 <strong>
 <br>
