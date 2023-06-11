@@ -47,9 +47,9 @@ data.append(dictionary)
 <br>點擊底下白區塊與🔎
 <br>記得勾選欲查詢之樓層</strong>
     
-![Imgur](https://i.imgur.com/yasqBhv.jpeg "教學2")
+![Imgur](https://i.imgur.com/67ttQGs.jpg "教學2")
 
-![Imgur](https://i.imgur.com/9WLlJsb.jpeg "教學3")
+![Imgur](https://i.imgur.com/vbsYKu5.jpg "教學3")
 
 <strong>
 <br>
