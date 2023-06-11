@@ -39,7 +39,7 @@ data.append(dictionary)
 -蘋果手機：長按-https://lihi1.com/fQBtx 。
 <br>
 
-![Imgur](https://imgur.com/BjVEbw3 "教學1")
+![Imgur](https://i.imgur.com/BjVEbw3.jpg "教學1")
 <br>
 <br>
 <br>
@@ -47,7 +47,7 @@ data.append(dictionary)
 <br>點擊底下白區塊與🔎
 <br>記得勾選欲查詢之樓層</strong>
     
-![Imgur](https://i.imgur.com/67ttQGs.jpg "教學2")
+![Imgur](https://i.imgur.com/vbsYKu5.jpg "教學2")
 
 
 
