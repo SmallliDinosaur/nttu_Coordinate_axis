@@ -2,7 +2,7 @@
 <strong>願促進臺東大學資訊發展，因此公布
 <br>自標記檔案，如有使用請引用以下網址</strong>：
 <br>
-https://github.com/SmallliDinosaur/NTTU_Coordinate_Axis
+https://github.com/di3n0/NTTU_Coordinate_Axis
 <br>
 <br>
 <br>
